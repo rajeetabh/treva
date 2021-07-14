@@ -1,0 +1,37 @@
+#header
+{
+    background:url("assets/img/about/1.jpg");
+    border-bottom:2px solid rgba(255,0,0,0.5);
+    
+}
+.para
+{
+    color:black;
+    font-weight:700;
+}
+#change
+{
+    border:2px solid rgba(255,199,51,0.75);
+    
+}
+body
+{
+    background: linear-gradient(#e66465, #9198e5);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+body+html
+{
+    width:100%;
+    height:100%;
+}
+#alter
+{
+    color:white;
+    font-family: 'Dancing Script', cursive;
+}
+#head{
+    font-weight:500;
+    color:#ff4500;
+}
